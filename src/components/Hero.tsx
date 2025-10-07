@@ -57,7 +57,7 @@ const Hero = () => {
                 Turning Visions Into Connected Reality
               </motion.h1>
               <motion.p variants={itemVariants} className="text-lg sm:text-xl text-gray-300 mt-4 sm:mt-6 md:text-base text-left">
-                7+ years building IoT products that combine hardware engineering, software & AI, and production scale.
+                Helping businesses grow with custom web and app solutions crafted for real-world impact.
               </motion.p>
               <motion.div className="flex flex-col sm:flex-row gap-3 sm:gap-4 mt-6 sm:mt-8" variants={itemVariants}>
                 <button className="min-h-[44px] px-6 sm:px-8 py-3 bg-gray-200 text-gray-700 rounded-md hover:bg-gray-300 transition-all shadow-lg hover:shadow-xl hover:shadow-gray-300/20 flex items-center justify-center group text-sm sm:text-base font-medium" onClick={e => {
@@ -91,8 +91,8 @@ const Hero = () => {
             <div className="w-10 h-10 md:w-12 md:h-12 bg-gray-100 flex items-center justify-center rounded-lg text-gray-500 mb-2 md:mb-3">
               <Cpu className="w-5 h-5 md:w-6 md:h-6" />
             </div>
-            <h3 className="text-base md:text-lg font-semibold mb-1 md:mb-2 text-gray-800">Hardware Engineering</h3>
-            <p className="text-gray-600 text-xs md:text-sm">Circuit design, power management, mechanical engineering, and connectivity solutions.</p>
+            <h3 className="text-base md:text-lg font-semibold mb-1 md:mb-2 text-gray-800">Project Strategy</h3>
+            <p className="text-gray-600 text-xs md:text-sm">Discovery workshops, technical feasibility analysis, scope definition, and end-to-end roadmap planning.</p>
           </motion.div>
           
           <motion.div className="bg-white p-4 md:p-5 rounded-xl shadow-sm border border-gray-100 transform transition-all duration-300 hover:-translate-y-1 hover:shadow-md" variants={itemVariants}>

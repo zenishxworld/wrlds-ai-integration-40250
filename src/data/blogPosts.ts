@@ -417,7 +417,7 @@ export const blogPosts: BlogPost[] = [
       'workplace safety',
       'wearable sensors',
       'construction safety',
-      'industrial IoT',
+      'Logistics & Supply Chain',
       'worker protection',
       'safety monitoring',
       'smart helmets',

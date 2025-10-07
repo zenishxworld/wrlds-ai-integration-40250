@@ -31,8 +31,8 @@ const Features = () => {
     },
     {
       icon: <HardHat className="w-10 h-10 text-white transition-transform duration-300 transform" />,
-      title: "Industrial IoT",
-      description: "Predictive maintenance systems, asset tracking, and worker safety monitoring for industrial environments.",
+      title: "Logistics & Supply Chain",
+      description: "Real-time fleet tracking, inventory optimization, end-to-end supply chain visibility, and automated warehouse management solutions.",
       image: "/lovable-uploads/cf8966e3-de0d-445f-9fbd-ee6c48daa7ff.png",
       category: "Industrial"
     },
@@ -64,8 +64,8 @@ const Features = () => {
   const pillars = [
     {
       icon: <Cpu className="w-6 h-6 text-gray-700" />,
-      title: "Hardware Engineering",
-      description: "Circuit design, power management, mechanical engineering, and connectivity solutions that form the backbone of smart products."
+      title: "Project Strategy",
+      description: "We begin with comprehensive discovery workshops, scope definition, and full-service roadmap planning to guide your project efficiently."
     },
     {
       icon: <Code className="w-6 h-6 text-gray-700" />,
@@ -91,7 +91,7 @@ const Features = () => {
               End-to-End Smart Product Development
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              We combine hardware engineering, software development, and manufacturing expertise to turn your connected product vision into market reality.
+              We merge strategic planning, robust software development, and deployment expertise to take your product vision from concept to market reality.
             </p>
           </div>
 
@@ -100,8 +100,7 @@ const Features = () => {
             <div className="text-center mb-12">
               <h3 className="text-2xl font-bold mb-4">Our Three-Pillar Approach</h3>
               <p className="text-gray-600 max-w-2xl mx-auto">
-                Every successful connected product requires expertise across hardware, software, and manufacturing. We provide all three under one roof.
-              </p>
+A successful product requires expertise in strategy, robust software, and scalable deployment. We deliver all three seamlessly under one roof.              </p>
             </div>
             
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
